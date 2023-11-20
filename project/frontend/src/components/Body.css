@@ -1,0 +1,93 @@
+.img{
+    width: 100%;
+    height: 300px;
+}
+.ppimg {
+    position: absolute;
+    top:350px; 
+    left: 60px; 
+    width: 120px; 
+    height: 120px; 
+    border-radius: 50%; 
+    border: 1px solid black;
+}
+.username{
+    font-weight: 700;
+    position: absolute;
+    top:410px; 
+    left: 210px; 
+}
+.diaimg{
+    position: absolute;
+    top:410px; 
+    left: 320px; 
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    border: 1px solid purple;
+    border-radius: 50%;
+}
+.verimg{
+    position: absolute;
+    top:410px; 
+    left: 350px; 
+    height: 20px;
+    width: 20px;
+}
+.follower{
+    position: absolute;
+    top:440px; 
+    left: 215px; 
+    font-weight: bold;
+    color: #a1a1a1;
+    border: 2px solid #adadad;
+    border-radius: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.followertext{
+    position: absolute;
+    top:473px; 
+    left: 217px;
+    color: #adadad;
+    font-size: small;
+}
+.following{
+    position: absolute;
+    top:440px; 
+    left: 298px; 
+    font-weight: bold;
+    color: #a1a1a1;
+    border: 2px solid #adadad;
+    border-radius: 7px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.followingtext{
+    position: absolute;
+    top:473px; 
+    left: 298px;
+    color: #adadad;
+    font-size: small;
+}
+.text{
+    position: absolute;
+    top:510px; 
+    left: 80px;
+    font-weight: 500;
+    font-size: medium;
+    color: #929292;
+}
+.instalink{
+    position: absolute;
+    top:530px; 
+    left: 80px;
+    color: #82bac1;
+    font-size: small;
+    cursor: pointer;
+}
+
